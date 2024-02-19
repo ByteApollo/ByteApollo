@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning to code in general, to go down the programming iceberg.<br>⚡ Fun fact The Bugatti Chiron Pur Sport's gearbox shifts gears in just 15 milliseconds, ensuring lightning-fast acceleration and a thrilling driving experience.
+🌱 I’m currently learning to code in general, to go down the programming iceberg.<br>⚡ Fun fact the Bugatti Chiron Pur Sport's gearbox shifts gears in just 15 milliseconds, ensuring lightning-fast acceleration and a thrilling driving experience.
 
 
 ## 🌐 Socials:
