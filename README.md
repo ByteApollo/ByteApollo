@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ömer Aydin</h1>
-<h3 align="center">The reason I like coding is, you can make silly stuff with it ;)</h3>
+# 💫 About Me:
+🌱 I’m currently learning to code in general, to go down the programming iceberg.<br>⚡ Fun factThe Bugatti Chiron Pur Sport's gearbox shifts gears in just 15 milliseconds, ensuring lightning-fast acceleration and a thrilling driving experience.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superiorprv&label=Profile%20views&color=232323&style=flat-square" alt="superiorprv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superiorprv" alt="superiorprv" /></a> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/812967270191202336) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oemeradn) 
 
-- 🌱 I’m currently learning **to code in general, to go down the programming iceberg.**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SuperiorPRV&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SuperiorPRV&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperiorPRV&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡ Fun fact **The Bugatti Chiron Pur Sport's gearbox shifts gears in just 15 milliseconds, ensuring lightning-fast acceleration and a thrilling driving experience.**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SuperiorPRV&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/812967270191202336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="812967270191202336" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SuperiorPRV&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superiorprv&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="superiorprv" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=SuperiorPRV&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superiorprv&show_icons=true&theme=cobalt&locale=en" alt="superiorprv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superiorprv&theme=dark" alt="superiorprv" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
