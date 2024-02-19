@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Aydin</h1>
-<h3 align="center">I like coding because i can do silly stuff with it :).</h3>
+<h3 align="center">I like coding because i can do silly stuff with it :)</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=superiorprv" alt="superiorprv" /></a> </p>
